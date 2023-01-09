@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @dimitrig1999
-- 👀 I’m interested in learning anything related to technology! I have learned Java, SQL and HTML
-- 🌱 I’m currently learning Kotlin
+- 👋 Hi, I’m Dimitri Greco
 - 📫 How to reach me:
 - Email: dimitrig1999@gmail.com
 
